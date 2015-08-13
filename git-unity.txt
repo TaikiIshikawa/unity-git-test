@@ -1,0 +1,11 @@
+﻿//unity-gitの無視するファイル
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+
+
+//git変更の衝突
+open shell　*　git gui と入力　*　右クリックメニュー　*　リモートorローカル採用　*　「コミット」から「コミット予定する」を実行　*　GUIを閉じコマンドgit rebase –continueを
